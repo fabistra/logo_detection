@@ -1,0 +1,4 @@
+1. Go to project directory on terminal
+2. pip install -r requirements.txt
+3. uvicorn start:app
+4. Upload the image on web api and get the results on output box.
